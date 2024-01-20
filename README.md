@@ -2,8 +2,17 @@
 
 Welcome to the public repo for [deeplearning.ai](https://www.deeplearning.ai/)'s Machine Learning Engineering for Production Specialization.
 
-Here you will find public resources for the courses of this specialization.
+<https://www.coursera.org/learn/introduction-to-machine-learning-in-production>
+
+## Resources
+
+<https://www.coursera.org/learn/introduction-to-machine-learning-in-production>
+
+<https://community.deeplearning.ai/t/mlep-course-1-lecture-notes/54446>
+
+<https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main>
+
+
 
 ## Want to contribute?
 
-At the time being we are not accepting Pull Requests but if you have any suggestion or spot any bug please raise an issue.
